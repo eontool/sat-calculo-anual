@@ -1,0 +1,26 @@
+{
+  "name": "sat-calculo-anual",
+  "version": "1.0.0",
+  "description": "Calculo de retenciones sobre archivos xml.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eontool/sat-calculo-anual.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eontool/sat-calculo-anual/issues"
+  },
+  "homepage": "https://github.com/eontool/sat-calculo-anual#readme",
+  "dependencies": {
+    "xml-query": "^1.4.0",
+    "xml-reader": "^2.4.3"
+  },
+  "devDependencies": {
+    "@types/node": "^9.6.5"
+  }
+}
